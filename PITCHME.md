@@ -19,16 +19,12 @@ print cherryff911
 ![setup](https://ddaugher.github.io/images/setup-teaser.png)
 
 ---
-Download python IDLE here https://www.python.org/ or get the setup.
-
-## Configuring Python
-#### In order to run Python flawlessly, you might have to change certain environment settings in Windows.
-
+Download python IDLE here https://www.python.org/
 ---
 
 ## Setting environment variables
 
 ---
 
-
+# 'Hello world'
 
