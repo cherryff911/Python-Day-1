@@ -15,4 +15,5 @@ print cherryff911
 ---
 
 # Python Set Up
-![setup](www.playguitarlive.com/wp-content/uploads/2015/02/GuitarSetup-e1424999929292.png)
+
+![setup](https://ddaugher.github.io/images/setup-teaser.png)
