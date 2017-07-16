@@ -17,7 +17,7 @@ cherryff911 = ['twitter', 'instagram', 'gitlab', 'github']
 ---
 1. Download python IDLE here https://www.python.org/
 2. Installing
-3. Setting environment variables
+3. Setting up environment variables
 ---
 
 
