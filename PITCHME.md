@@ -7,7 +7,6 @@
 ## My handles username
 
 cherryff911 = ['twitter', 'instagram', 'gitlab', 'github']
-print cherryff911
 ```
 ---
 
@@ -16,12 +15,11 @@ print cherryff911
 ![setup](https://ddaugher.github.io/images/setup-teaser.png)
 
 ---
-Download python IDLE here https://www.python.org/
+1. Download python IDLE here https://www.python.org/
+2. installing
+3. Setting environment variables
 ---
 
-## Setting environment variables
-
----
 
 # 'Hello world'
 
