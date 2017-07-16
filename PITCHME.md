@@ -1,4 +1,4 @@
-### Meet
+#### Meet
 ## Adeoti Sheriff
 ![cherryff](https://lh3.googleusercontent.com/-ohaKrorGwxs/WWuOurOWtwI/AAAAAAAABrc/qsoQGMSZQG8L4jGtyW0pUnv-RXJbtkZVgCEwYBhgL/w140-h140-p/cherryff.png)
 ## Adeoti Sheriff
@@ -17,8 +17,8 @@ cherryff911 = ['twitter', 'instagram', 'gitlab', 'github']
 
 ---
 1. Download python IDLE here https://www.python.org/
-2. Installing
-3. Setting up environment variables
+2. Install
+3. Set up environment variables
 ---
 
 
