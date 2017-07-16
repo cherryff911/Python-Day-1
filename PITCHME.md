@@ -1,10 +1,10 @@
 ## BIO
 ![cherryff](https://lh3.googleusercontent.com/-ohaKrorGwxs/WWuOurOWtwI/AAAAAAAABrc/qsoQGMSZQG8L4jGtyW0pUnv-RXJbtkZVgCEwYBhgL/w140-h140-p/cherryff.png)
-# Adeoti Sheriff
+## Adeoti Sheriff
 <i>I am  baby Developer and Tech enthusiast at Uplift.ng</i>
 <i>also like pressing keys and deffinately with a Screen!</i>
 ```python
-## This is the list of my handles username
+## My handles username
 
 cherryff911 = ['twitter', 'instagram', 'gitlab', 'github']
 print cherryff911
